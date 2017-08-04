@@ -1,2 +1,2 @@
 # koi
-a rasterization renderer
+a rasterization render
